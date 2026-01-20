@@ -1,10 +1,10 @@
 # 🌌 Project-81: The Pythonic Q.E.D. — A Mathematical Odyssey
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WSL](https://img.shields.io/badge/Env-WSL_Optimized-blueviolet?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-Project_Document-008080?style=for-the-badge&logo=latex&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+![WSL](https://img.shields.io/badge/Env-WSL_Optimized-blueviolet?style=for-the-badge&logo=windows-terminal&logoColor=white)<br>
+![LaTeX](https://img.shields.io/badge/LaTeX-Project_Document-008080?style=for-the-badge&logo=latex&logoColor=white)<br>
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)<br>
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)<br>
 
 > **"A rigorous translation of mathematical intuition into computational reality. 81 milestones of disciplined learning."**
 

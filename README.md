@@ -1,4 +1,4 @@
-# 🌌 Project-81: The Pythonic Q.E.D. — A Mathematical Odyssey
+# 🌌 PY_PROJECTS: 81 Projects — A Mathematical Odyssey
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 ![WSL](https://img.shields.io/badge/Env-WSL_Optimized-blueviolet?style=for-the-badge&logo=windows-terminal&logoColor=white)<br>
@@ -18,11 +18,11 @@ This repository represents a transformative journey through **81 structured Pyth
 ## 🏗️ Repository Architecture
 ```text
 PY_Projects/
-├── 📁 01_Numbers_and_Sequences/      # Projects 01-15: Prime logic, Series, & Factors
-├── 📁 02_String_and_Text_Logic/      # Projects 16-30: Palindromes, Cyphers, & Symbolic Patterns
-├── 📁 03_Data_Structures_Logic/      # Projects 31-50: Stacks, Queues, & Subarray Analysis
-├── 📁 04_Geometry_and_Coordinate/    # Projects 51-65: Vector space, Distance, & Polygons
-├── 📁 05_Intermediate_Algos/         # Projects 66-81: Calculus, Root Finding, & Linear Systems
+├── 📁 Section_1/ -> Numbers_and_Sequences      # Projects 01-15: Prime logic, Series, & Factors
+├── 📁 Section_2/ -> String_and_Text_Logic      # Projects 16-30: Palindromes, Cyphers, & Symbolic Patterns
+├── 📁 Section_3/ -> Data_Structures_Logic      # Projects 31-50: Stacks, Queues, & Subarray Analysis
+├── 📁 Section_4/ -> Geometry_and_Coordinate    # Projects 51-65: Vector space, Distance, & Polygons
+├── 📁 Section_5/ -> Intermediate_Algos         # Projects 66-81: Calculus, Root Finding, & Linear Systems
 └── 📁 Documentation_Source/           # Source LaTeX files for the Project-81 PDF
 ```
 
@@ -36,7 +36,10 @@ PY_Projects/
 
 ### 🐧 Environment Setup (WSL Optimized)
 This project is engineered for **WSL users** with strict storage constraints:
-1. **Clone:** `git clone https://github.com/Zapking-001/PY_Projects.git`
+1. **Clone:**
+   ```bash
+   git clone https://github.com/Zapking-001/PY_Projects.git
+   ```
 2. **Minimalism:** Zero external dependencies (No `pip install` required).
 3. **Storage:** Total footprint kept under **5GB** via strict `.gitignore` of build artifacts.
 
@@ -49,6 +52,28 @@ This project is engineered for **WSL users** with strict storage constraints:
 | **O(log n)** | 03, 08 | Binary Search / Efficient Powering |
 | **O(n)** | 01-45, 48-50 | Linear Scans / Single-pass Aggregations |
 | **O(n²)** | 49 (Shortest) | Nested Subarray Validations |
+
+## Complextiy Map for Reference
+| Complexity | Logic Focus |
+| :--- | :--- |
+| **O(1)** | Constant Time / Direct Access / Math Formulas |
+| **O(log n)** | Binary Search / Divide & Conquer |
+| **O(√n)** |  Prime Checks / Optimized Loops |
+| **O(n)** |  Linear Scan / Single-pass Aggregation |
+| **O(n log n)** | Efficient Sorting / Recursive Divide & Merge |
+| **O(n²)** | Nested Loops / Pair Comparisons |
+| **O(n³)** |  Triple Nested Loops / Matrix Operations |
+| **O(2ⁿ)** |  Brute-force Recursion / Subset Generation |
+| **O(n!)** |  Permutations / Traveling Salesman (Brute Force) |
+| **O(kⁿ)** |  Exponential State Exploration |
+| **O(log log n)** | Double Logarithmic Algorithms |
+| **O(n log log n)** | Advanced Sieve Algorithms |
+| **O(1) Space** | In-place Computation |
+| **O(log n) Space** | Recursive Call Stack (Binary Recursion) |
+| **O(n) Space** |  Auxiliary Arrays / Hash Tables |
+| **O(n²) Space** | DP Tables / Adjacency Matrices |
+| **O(n!) Space** | Recursive Permutation Storage |
+
 
 ---
 
@@ -112,3 +137,5 @@ I am a technical lead focused on mathematical clarity and computational efficien
   <i>"Dedication over time shapes raw curiosity into technical clarity."</i> <br>
   <b>Project-81 Milestone Series | 2026</b>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=000000&width=435&lines=THANK+YOU)](https://git.io/typing-svg)

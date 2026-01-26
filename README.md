@@ -23,7 +23,7 @@ PY_Projects/
 ├── 📁 Section_3/ -> Data_Structures_Logic      # Projects 31-50: Stacks, Queues, & Subarray Analysis
 ├── 📁 Section_4/ -> Geometry_and_Coordinate    # Projects 51-65: Vector space, Distance, & Polygons
 ├── 📁 Section_5/ -> Intermediate_Algos         # Projects 66-81: Calculus, Root Finding, & Linear Systems
-└── 📁 Documentation_Source/           # Source LaTeX files for the Project-81 PDF
+└── 📁 Documentation_Source/                    # Source LaTeX files for the Project-81 PDF
 ```
 
 ---

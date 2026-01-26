@@ -138,4 +138,4 @@ I am a technical lead focused on mathematical clarity and computational efficien
   <b>Project-81 Milestone Series | 2026</b>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=000000&width=435&lines=THANK+YOU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=2000&pause=500&color=000000&vCenter=true&random=true&width=435&height=90&lines=THANK+YOU)](https://git.io/typing-svg)
